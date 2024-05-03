@@ -1,7 +1,7 @@
 # MiniJSProjects
 Building basic JavaScript Projects with UI
 
-#Color Picker
+1-COLOR PICKER
 ![colorpicker1](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/2f2f1bd9-f20a-4999-8770-2eaffa96dffe)
 
 
@@ -10,9 +10,10 @@ Building basic JavaScript Projects with UI
 ![colorpicker3](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/17391872-548c-4375-9ead-24ef23a4147d)
 
 
-#Palindrome Checker
+2-PALINDROME CHECKER
 
-![palindromechecker](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/32e22cac-9596-4623-832e-f854a77d0f14)
+![palindromechecker](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/cb3f4712-93e7-4237-a90f-6295139bcc9f)
+
 
 ![palindromechecker2](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/392dd40c-0afe-47ac-9462-53d2b0711613)
 
