@@ -4,5 +4,4 @@ Building basic JavaScript Projects with UI
 
 ![colorpicker2](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/3be9537f-4883-4086-9a3b-2e2ce8655e7a)
 
-![colorpicker3](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/cdda92f9-d7ff-4645-b231-f0e24173af1d)
-
+![colorpicker3](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/17391872-548c-4375-9ead-24ef23a4147d)
