@@ -18,3 +18,8 @@ Building basic JavaScript Projects with UI
 ![palindromechecker2](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/392dd40c-0afe-47ac-9462-53d2b0711613)
 
 ![palindromechecker3](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/b73c63d2-0f1f-49c2-8094-ed10b6c4a42b)
+
+
+3-RANDOM QUOTE GENERATOR
+
+![Randomquotegenerator](https://github.com/tugcekizildg/MiniJSProjects/assets/141547888/84828069-63f9-478a-86d2-daf42ac69d3f)
